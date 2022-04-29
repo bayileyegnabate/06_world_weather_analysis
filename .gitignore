@@ -1,3 +1,12 @@
+# adding config.py file
+.DS_Store
+config.py
+# adding extra folders/files
+random_numbers.ipynb
+api_practice.ipynb
+weather_data
+tmp06
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
